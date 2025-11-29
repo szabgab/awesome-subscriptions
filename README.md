@@ -38,6 +38,9 @@ See also the [Learnopoly reviews](https://learnopoly.com/)
 
 * [Boot.dev](https://www.boot.dev/)
 * [Superprof](https://www.superprof.com/) - private tutors
+* [Arjan Codes](https://www.arjancodes.com/)
+* [Dave Farley](https://www.davefarley.net/) - [Modern Software Engineering](http://modernsoftwareengineering.co.uk/) - [CD Training](https://courses.cd.training/) - Continuous Deployment
+
 
 ## In Hebrew
 
@@ -47,4 +50,7 @@ See also the [Learnopoly reviews](https://learnopoly.com/)
 * [Maratony](https://maratony.co.il/) - Tony teaching C, C++ and giving private lessons as well.
 * [INT College](www.int-college.co.il/)
 * [Leap Learner](https://www.leaplearner.co.il/)
-
+* [Yaniv Arad](https://www.yaniv-arad.com/)
+* [Dvelopers.institute](https://developers.institute/landing/default_HE.html)
+* [Codebox](https://codebox.co.il/)
+* [Experis Academy](https://experis.co.il/academy/)
