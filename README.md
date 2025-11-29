@@ -10,3 +10,13 @@
 ## Rust
 
 * [Let's Get Rusty](https://learn.letsgetrusty.com/)
+
+
+
+## Everything
+
+* [Udemy](https://www.udemy.com/) individual courses about everything
+
+
+## In Hebrew
+* [toCode](https://www.tocode.co.il/) by Ynon Perek (full-stack with Python and NodeJS)
